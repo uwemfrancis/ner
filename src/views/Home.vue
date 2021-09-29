@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <p>Homepage</p>
+    <p>gdvwvgdbvq ahsvw csdvh wbdvwhvwh</p>
 
     <router-link to="/signup" class="btn">back to signup</router-link>
   </div>
